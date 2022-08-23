@@ -8,10 +8,10 @@ Mirror Cube is going to be in devlopment
 # About 
 This is a mind, fun, arcade game.
 
-#How to Play | Players
+# How to Play | Players
 In this game there are 2 cubes: Player Cube , and Mirror Cube.
 
-#How to Play | Movement
+# How to Play | Movement
 
 If you click right the Player Cube would move right BUT, the Mirror Cube would move left.
 If you click left the Player Cube would move left BUT, the Mirror Cube would move right.
