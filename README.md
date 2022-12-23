@@ -10,11 +10,11 @@ Mirror Cube is going to be in devlopment
 
           Windows 7-11: January 7th 2023
           
-          Android: December 19th 2022
+          Android: December 24th-25thth 2022 (Delayed)
           
           Unity Play: January 3rd 2023
           
-          Itch Io: December 24th 2022
+          Itch Io: December 24th-@5th 2022 (Delayed)
           
           GitHub(Windows 7-11 and Android): January 8th 2023
 
